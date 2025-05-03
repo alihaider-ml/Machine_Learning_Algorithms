@@ -15,9 +15,4 @@ This project demonstrates a basic application of the k-Nearest Neighbors (k-NN) 
 - Python 3.x
 - numpy
 - matplotlib
-- scikit-learn
 
-Install requirements via:
-
-```bash
-pip install -r requirements.txt
