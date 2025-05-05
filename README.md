@@ -1,25 +1,46 @@
 # 🧠 Machine Learning Algorithms
 
-This repository contains clean and concise implementations of essential machine learning algorithms using Python and popular libraries like scikit-learn. The goal is to build a reference collection of ML models with clear code, helpful visualizations, and basic evaluations — ideal for learners and developers.
+This repository is a curated collection of fundamental machine learning algorithms implemented in Python. It is designed for educational and practical purposes — showcasing how these models work through clear code, basic evaluations, and visualizations.
 
-## 📁 Repository Structure
+---
 
-- `knn/`  
-  K-Nearest Neighbors (k-NN) classifier using synthetic data.
-  
-  Features:
-  - Synthetic data generation using `make_classification`
-  - Model training using `KNeighborsClassifier`
-  - Accuracy evaluation
-  - Decision boundary visualization
+## 🎯 Project Goals
 
+- Provide beginner-friendly, readable implementations of core ML algorithms
+- Demonstrate complete machine learning pipelines from data preparation to evaluation
+- Visualize model behavior to support intuitive understanding
+- Serve as a personal reference and starting point for further exploration
 
+---
 
-*More algorithms will be added soon, including Decision Trees, Logistic Regression, SVM, etc.*
+## 📁 Included Algorithms
 
-## 🚀 Getting Started
+### 🔹 K-Nearest Neighbors (k-NN)
+- Synthetic classification dataset generated using `make_classification`
+- Model built using `KNeighborsClassifier`
+- Accuracy evaluation and decision boundary visualization
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/alihaider-ml/machine_learning_algorithm.git
-   cd machine_learning_algorithm
+### 🔹 Linear Regression
+- Synthetic regression dataset used
+- Model built using `LinearRegression`
+- Performance evaluated using Mean Squared Error (MSE) and R² score
+- Visualization of regression line and data distribution
+
+> More algorithms will be added soon, including Logistic Regression,  Support Vector Machines (SVM), and Clustering methods.
+
+---
+
+## 🔧 Requirements
+
+Make sure the following Python libraries are installed:
+
+- Python 3.x
+- numpy
+- pandas
+- matplotlib
+- scikit-learn
+
+## 👨‍💻 Maintainer
+**Ali Haider**  
+📫 [GitHub](https://github.com/alihaider-ml) • [LinkedIn](https://www.linkedin.com/in/ali-haider-341697268/))
+
