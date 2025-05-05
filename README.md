@@ -1,18 +1,25 @@
-# K-Nearest Neighbors (k-NN) Classifier on Synthetic Data
+# 🧠 Machine Learning Algorithms
 
-This project demonstrates a basic application of the k-Nearest Neighbors (k-NN) algorithm using Python and scikit-learn. It involves generating synthetic classification data, training a k-NN model, evaluating its performance, and visualizing the decision boundary.
+This repository contains clean and concise implementations of essential machine learning algorithms using Python and popular libraries like scikit-learn. The goal is to build a reference collection of ML models with clear code, helpful visualizations, and basic evaluations — ideal for learners and developers.
 
-## 📌 Features
+## 📁 Repository Structure
 
-- Synthetic data generation using `make_classification`
-- Data splitting into training and testing sets
-- Model training using `KNeighborsClassifier`
-- Accuracy evaluation
-- Data visualization with `matplotlib`
+- `knn/`  
+  K-Nearest Neighbors (k-NN) classifier using synthetic data.
+  
+  Features:
+  - Synthetic data generation using `make_classification`
+  - Model training using `KNeighborsClassifier`
+  - Accuracy evaluation
+  - Decision boundary visualization
 
-## 🔧 Requirements
 
-- Python 3.x
-- numpy
-- matplotlib
 
+*More algorithms will be added soon, including Decision Trees, Logistic Regression, SVM, etc.*
+
+## 🚀 Getting Started
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/alihaider-ml/machine_learning_algorithm.git
+   cd machine_learning_algorithm
