@@ -26,6 +26,15 @@ This repository is a curated collection of fundamental machine learning algorith
 - Performance evaluated using Mean Squared Error (MSE) and R² score
 - Visualization of regression line and data distribution
 
+### 🔹 Naive Bayes Classification
+- Three synthetic datasets used for different data types:
+- Continuous data → GaussianNB
+- Discrete (count-based) data → MultinomialNB
+- Binary data → BernoulliNB
+- Models built using respective Naive Bayes classifiers from sklearn.naive_bayes
+- Performance evaluated using accuracy score
+- Demonstrates appropriate use cases for each Naive Bayes variant
+
 > More algorithms will be added soon, including Logistic Regression,  Support Vector Machines (SVM), and Clustering methods.
 
 ---
